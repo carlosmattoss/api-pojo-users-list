@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T10:37:16 BRT" name="Default suite" finished-at="2024-03-18T10:37:20 BRT" duration-ms="3582">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T10:37:16 BRT" name="Default test" finished-at="2024-03-18T10:37:20 BRT" duration-ms="3582">
+      <class name="usersApiTest.SerTest">
+        <test-method is-config="true" signature="baseTest()[pri:0, instance:usersApiTest.SerTest@41e1e210]" started-at="2024-03-18T10:37:17 BRT" name="baseTest" finished-at="2024-03-18T10:37:17 BRT" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method signature="getTest()[pri:0, instance:usersApiTest.SerTest@41e1e210]" started-at="2024-03-18T10:37:17 BRT" name="getTest" finished-at="2024-03-18T10:37:19 BRT" duration-ms="2272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method signature="postTest()[pri:0, instance:usersApiTest.SerTest@41e1e210]" started-at="2024-03-18T10:37:19 BRT" name="postTest" finished-at="2024-03-18T10:37:20 BRT" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- usersApiTest.SerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

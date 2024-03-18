@@ -14,11 +14,10 @@
 
 	<developers>
 		<developer>
-			<name>Nishant</name>
-			<id>123</id>
-			<organization>Fun Doo Testers</organization>
-			<organizationUrl>http://www.fundootesters.com</organizationUrl>
-			<email>fundootesters@gmail.com</email>
+			<name>Carlos Matos</name>
+			<id>1</id>
+			<organization>Carlos Matos</organization>
+			<email>carlos_mattoos@hotmail.com</email>
 			<roles>
 				<role>SDET</role>
 			</roles>
